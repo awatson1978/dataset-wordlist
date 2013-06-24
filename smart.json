@@ -3,6 +3,6 @@
     "description": "Meteorite package that adds the Fry Wordlist of 1000 most commonly used words.",
     "homepage": "https://github.com/awatson1978/dataset-wordlist",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.1.14",
+    "version": "0.1.15",
     "git": "https://github.com/awatson1978/dataset-wordlist.git"
 }
